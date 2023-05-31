@@ -6,7 +6,7 @@ body{
 .container
 {
  
-    background-color: rgba(0, 0, 0, 0.13);
+    background-color: rgba(0, 0, 0, 0.14);
     width:20rem;
    
     padding-top: 20px;
@@ -24,7 +24,7 @@ div{
     text-align: center;
     font-family: 'Dongle', sans-serif;
     box-shadow:0 0.7em 1.5em -0.4em rgb(0, 0, 0);
-    letter-spacing:5px;
+    letter-spacing:6px;
     background: -webkit-gradient(linear, left top, left bottom, color-stop(31%,#eccdc9), color-stop(100%,#babb9b));
 
   
@@ -36,7 +36,7 @@ input{
     font-family: 'Rubik', sans-serif;
     font-weight: bold;
     text-align:right;
-    letter-spacing:2px;
+    letter-spacing:3px;
     
 }
 
